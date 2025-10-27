@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,linux,aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github" height="45"/>
 </p>
 
 ---

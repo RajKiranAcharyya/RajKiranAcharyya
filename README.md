@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-kiran-acharyya-b5b529316/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://x.com/raj_k_acharyya" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://www.facebook.com/rajkiranacharyya" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://www.facebook.com/rajkiranacharyya" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/></a>
 <a href="https://www.instagram.com/p/CTjeW5xLcX8/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="mailto:rajkiranacharyya@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>

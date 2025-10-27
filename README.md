@@ -47,8 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajKiranAcharyya&show_icons=true&layout=compact" height="150" />
 </p>
 
----
 
-### ✨ Fun Quote:
-> “Consistency beats intensity. Even small steps every day create massive change.”
 

@@ -36,7 +36,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=RajKiranAcharyya&show_icons=true&locale=en" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=RajKiranAcharyya">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=RajKiranAcharyya" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=RajKiranAcharyya"/>
 </a>
 </p>
 

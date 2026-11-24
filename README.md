@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=RajKiranAcharyya&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-- 🌱 I’m currently learning **Java | SQL | DSA | Web Development**
-- 🧑‍💻 Interested in **Software Engineering, Backend Development, AI**
-- 💬 Ask me about **Java, C, Python, HTML, CSS, JavaScript**
+- 🌱 I’m currently building with **TypeScript | React.js | Express.js | BullMQ | Redis | SQL**
+- 🧑‍💻 Interested in **Distributed Systems, Backend Architecture, Cloud & AI Workflows**
+- 💬 Ask me about **Java, C, Python, JavaScript, TypeScript, Node.js, Queue Engines & Databases**
 - 📫 Reach me at **rajkiranacharyya@gmail.com**
 
 ---
@@ -23,9 +23,26 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages, Frameworks & Developer Tools:
+
+#### 💻 Programming & Scripting Languages:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,git,github" height="45"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,c,html,css" height="45"/>
+</p>
+
+#### ⚙️ Backend, Frameworks & Queue Engines:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,prisma" height="45"/>
+</p>
+
+#### 🗄️ Databases, Caching & Search:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" height="45"/>
+</p>
+
+#### 🚀 DevOps, Cloud & Tooling:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" height="45"/>
 </p>
 
 ---
@@ -48,4 +65,3 @@
 </p>
 
 ---
-
